@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbvBPOY2QcGxXloSCR0MBW1NWqUJAvGADxLQ5n0Ye85Zg0jExxZe0Uriei4e3+H5tsBqhbHssakarU9J5WlaSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANGEL\\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\\Masaüstü\\OTTOO\\Zil\\Zil.Client\\Zil.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANGEL\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.4\\microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ANGEL\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.4\\microsoft.extensions.caching.memory.3.1.4.nupkg.sha512",
+    "C:\\Users\\ANGEL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ANGEL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ANGEL\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\ANGEL\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
